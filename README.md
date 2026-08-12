@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Mukilan S • AI/ML & Full-Stack Developer</h1>
   <p>Building production-ready ML models & intelligent full-stack apps.</p>
+  <br />
+  <a href="https://mukilans.vercel.app">
+    <img src="preview.png" alt="Portfolio Preview" width="100%" style="border-radius: 12px; border: 1px solid #333;" />
+  </a>
 </div>
 
 ## 🚀 About
