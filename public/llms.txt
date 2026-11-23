@@ -1,0 +1,34 @@
+# Mukilan S (Mukilan-s18)
+
+> Official Portfolio & Developer Website: https://mukilans.vercel.app
+
+Mukilan S is an AI/ML Specialist and Full-Stack Developer based in Chennai, India.
+He is pursuing a B.Tech in Artificial Intelligence & Machine Learning at Rajalakshmi Engineering College (Class of 2028).
+
+## Primary Details
+- Full Name: Mukilan S (Mukilan Subramani)
+- Professional Title: AI/ML Specialist & Full-Stack Developer
+- Official Website / Portfolio: https://mukilans.vercel.app
+- Alternate Keywords: Mukilan, Mukilan S, Mukilan Subramani, Mukilan S Portfolio, Mukilan Website, Mukilans Vercel App, Mukilan-s18
+- GitHub Profile: https://github.com/Mukilan-s18
+- LinkedIn Profile: https://linkedin.com/in/mukilan-s2486
+- Contact Email: mukilans25361@gmail.com
+- Location: Chennai, Tamil Nadu, India
+
+## Core Technical Skills
+- Artificial Intelligence & Machine Learning: PyTorch, TensorFlow, Scikit-Learn, YOLOv8, Computer Vision, Deep Learning, Predictive Analytics
+- Generative AI & Agentic Systems: LangGraph, RAG (Retrieval-Augmented Generation), Gemini API, LLM Pipelines
+- Backend & Cloud Development: Python, FastAPI, Docker, Supabase, PostgreSQL
+- Frontend & 3D Web: React.js, Next.js, TypeScript, Tailwind CSS, Three.js, React Three Fiber
+
+## Key Projects
+- GraphOne AI Data Pipeline: Graph-based AI data intelligence pipeline for structured & unstructured knowledge processing (https://github.com/Mukilan-s18/GraphOne-ai-data-intelligence-pipeline)
+- StampedeZero - Crowd Safety AI: Real-time computer vision crowd density monitoring and early warning system using YOLOv8, PyTorch, and FastAPI (https://github.com/Mukilan-s18/StampedeZero)
+- Industrial Operations Brain: Agentic AI pipeline utilizing RAG and LangGraph for industrial manufacturing operations (https://github.com/Mukilan-s18/Industrial-Operations-Brain)
+- Ecosphere Management Platform: Full-stack ecological and resource management platform built with Next.js, Supabase, and TypeScript
+
+## Honors & Certifications
+- Winner Position (1st Place): Online Workshop on AI/ML using Manufacturing Analytics (MANGO Platform) organized by Walmart Center for Tech Excellence, IIT Madras (June 2026).
+- Generative AI Internship at Altruisty Innovation Pvt Ltd (February 2026).
+- Data Analytics & Cybersecurity Simulations by Deloitte.
+- Deep Learning Onramp by MathWorks.
